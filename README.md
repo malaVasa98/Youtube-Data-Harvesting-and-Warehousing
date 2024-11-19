@@ -4,7 +4,7 @@ This project emphasizes collecting data from different YouTube Channels using th
 
 						  TECHNOLOGIES USED
 
-Python, MySQL, Streamlit.
+Python, Sqlite3, Streamlit.
 
 						      APPROACH
 
